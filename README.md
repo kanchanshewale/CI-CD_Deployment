@@ -19,6 +19,7 @@ This project demonstrates a Node.js web application deployed on AWS EC2 using Do
 - Node.js
 - Express.js
 - Docker
+- CI/CD
 - GitHub Actions
 - AWS EC2 (Ubuntu 24.04 LTS)
 
